@@ -1,6 +1,6 @@
-# Squad 3 Processes
+# Squad Processes
 
-Welcome to Squad 3! This document captures processes and, high-level ways of working between the engineers. Our goal is to promote collaboration and communication; avoiding working in silos as much as possible.
+This document captures processes and, high-level ways of working between the engineers. Our goal is to promote collaboration and communication; avoiding working in silos as much as possible.
 
 ## Implementation posts
 

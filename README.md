@@ -1,6 +1,6 @@
-# Squad 3's Repo
+# Squad 1's Repo
 
-Welcome to Squad 3! This repo maintains our squad's engineering specific
+Welcome to Squad 1! This repo maintains our squad's engineering specific
 information, processes, and high-level ways of working. The goal is to promote
 collaboration and communication; avoiding working in silos as much as possible.
 
